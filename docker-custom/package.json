@@ -29,7 +29,8 @@
         }
     ],
     "dependencies": {
-        "node-red": "1.2.3"
+        "node-red": "1.2.3",
+        "node-red-contrib-s7comm": "1.1.6"
     },
     "engines": {
         "node": ">=10"
